@@ -44,6 +44,7 @@
 				1D66CB2C23C4175900769572 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		1D66CB2C23C4175900769572 /* Products */ = {
 			isa = PBXGroup;
